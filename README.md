@@ -1,6 +1,6 @@
 # Hide letters within a sentence
 
-A small web-site that hides letters within a word or sentence. It could be useful when using a program like Anki and you use a  difficult word or expression.
+A small web-site that hides letters within a word or sentence. It could be useful when using a program like Anki. Especially if you have a difficult word or expression.
 
 Rules:
 * The first letter is always opened
