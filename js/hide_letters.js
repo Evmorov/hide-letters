@@ -21,7 +21,7 @@ function hide(str) {
     open = 2;
   } else if (15 < len && len <= 20) {
     open = 3;
-  } else if (20 < len){
+  } else if (20 < len {
     open = 4;
   }
 
